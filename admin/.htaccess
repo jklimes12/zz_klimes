@@ -1,0 +1,3 @@
+RewriteEngine on
+
+RewriteRule  ^hrac/(.*) player.php?id_player=$1
